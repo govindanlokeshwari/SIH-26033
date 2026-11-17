@@ -32,6 +32,12 @@ Benefits:
 	• Government Data Integration: Direct sync with the National Agriculture Market (eNAM) and local mandis to establish realistic, automated baseline pricing.
 	• Offline Synchronization: A custom syncing mechanism allowing farmers to update produce availability without active internet connection via structured USSD/SMS or a local cached application database. 
 ## Technical Approach
+
+
+<img width="1536" height="1024" alt="FarmDirect-AI Smart Agriculture Workflow" src="https://github.com/user-attachments/assets/9038a092-2452-4f6d-a07d-7d422f209f31" />
+
+
+
 • Technologies to be used:
 	• Frontend: React Native / Flutter (for cross-platform mobile apps), PWA for low data consumption.
 	• Backend: Node.js / Python Fast API with PostgreSQL for transactional data.
